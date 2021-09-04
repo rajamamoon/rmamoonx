@@ -28,5 +28,5 @@ I am Mamoon, a Full Stack Web Developer.
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="26" height="26" alt="Git" />
         <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="26" height="26" alt="Netlify" />
         <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="36" height="36" alt="Vercel" />
-        <img src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" width="36" height="36" alt="Heruko" />
+        <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="36" height="36" alt="Heruko" />
 </p>
