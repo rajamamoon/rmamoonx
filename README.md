@@ -20,15 +20,6 @@ I am Mamoon, a Full Stack Web Developer.
 - 📫 You can reach me [here](mailto:r.mamoonxk@hotmail.com)
 
 <p align="center">
-   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Reactjs" width="26" height="26" />
-   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vuejs" width="26" height="26" />
-   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="26" height="26" /> 
-   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="26" height="26" /> 
-   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="26" height="26" />
-   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="26" height="26" /> 
-</p>
-
-<p align="center">
         <img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" width="26" height="26" />
         <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="26" height="26" /> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="26" height="26" />
@@ -41,6 +32,16 @@ I am Mamoon, a Full Stack Web Developer.
         <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="26" height="26" alt="Heruko" />
         <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="26" height="26" alt="Google Cloud" />
 </p>
+
+<p align="center">
+   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Reactjs" width="26" height="26" />
+   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vuejs" width="26" height="26" />
+   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="26" height="26" /> 
+   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="26" height="26" /> 
+   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="26" height="26" />
+   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="26" height="26" /> 
+</p>
+
 
 <p align="center">
    <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="26" height="26" />
