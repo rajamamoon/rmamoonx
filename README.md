@@ -27,6 +27,6 @@ I am Mamoon, a Full Stack Web Developer.
         <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" alt="mongodb" width="26" height="26" /> 
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="26" height="26" alt="Git" />
         <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="26" height="26" alt="Netlify" />
-        <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="26" height="26" alt="Vercel" />
-        <img src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" width="26" height="26" alt="Heruko" />
+        <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="56" height="56" alt="Vercel" />
+        <img src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" width="56" height="56" alt="Heruko" />
 </p>
