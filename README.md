@@ -25,7 +25,6 @@ I am Mamoon, a Full Stack Web Developer.
         <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="26" height="26" /> 
         <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="26" height="26" />
         <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="26" height="26" /> 
-        <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" alt="mongodb" width="26" height="26" /> 
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="26" height="26" alt="Git" />
 </p>
 
@@ -38,6 +37,13 @@ I am Mamoon, a Full Stack Web Developer.
    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="26" height="26" /> 
    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="26" height="26" />
    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="26" height="26" /> 
+</p>
+
+- 🗄️ Databases
+<p>
+        <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" width="26" height="26" alt="MySQL" />
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="36" height="26" alt="PostgreSQL" />
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="26" height="26" alt="MongoDB" />
 </p>
 
 - 🏘️ Go to Hosting Sites
