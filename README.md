@@ -20,7 +20,8 @@ I am Mamoon, a Full Stack Web Developer.
 - 📫 You can reach me [here](mailto:r.mamoonxk@hotmail.com)
 
 <p align="center">
-   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Reactjs" width="26" height="26" /> 
+   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Reactjs" width="26" height="26" />
+   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vuejs" width="26" height="26" /> 
 </p>
 
 <p align="center">
