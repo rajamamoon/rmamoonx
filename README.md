@@ -51,10 +51,12 @@ I am Mamoon, a Full Stack Web Developer.
         <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="26" height="26" alt="Netlify" />
         <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="36" height="26" alt="Vercel" />
         <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="26" height="26" alt="Heruko" />
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" width="26" height="26" alt="Firebase" />
         <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="26" height="26" alt="Google Cloud" />
 </p>
 
 - 🌱 I’m currently learning...
 <p>
    <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="26" height="26" />
+   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="26" height="26" />
 </p>
