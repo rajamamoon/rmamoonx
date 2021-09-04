@@ -19,17 +19,6 @@ I am Mamoon, a Full Stack Web Developer.
 - ✍ View my [LinkedIn](https://ae.linkedin.com/in/rajamamoon) Profile
 - 📫 You can reach me [here](mailto:r.mamoonxk@hotmail.com)
 
-- 🗜️ My Current Stack ...
-<p>
-   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Reactjs" width="26" height="26" />
-   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vuejs" width="26" height="26" />
-   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="26" height="26" />
-   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="26" height="26" />
-   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="26" height="26" /> 
-   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="26" height="26" />
-   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="26" height="26" /> 
-</p>
-
 - 💬 Languages That I Know ...
 <p>
         <img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" width="26" height="26" />
