@@ -32,18 +32,3 @@ I am Mamoon, a Full Stack Web Developer.
         <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="26" height="26" alt="Netlify" />
         <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="26" height="26" alt="Bitbucket" />
 </p>
-<p align="center">
-    <a href="https://twitter.com/titusrobyk" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="titusrobyk" height="26" width="26" />
-    </a>
-    <a href="https://linkedin.com/in/titusrobyk" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="titusrobyk" height="26" width="26" />
-   </a>
-    <a href="https://stackoverflow.com/users/8180066/titus-roby-k" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8180066/titus-roby-k" height="26" width="26" />
-    </a>
-    <a href="https://instagram.com/titus_roby.k" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="titus_roby.k" height="26" width="26" />
-    </a>
-</p>
-
