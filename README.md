@@ -25,7 +25,7 @@ I am Mamoon, a Full Stack Web Developer.
    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="26" height="26" /> 
    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="26" height="26" /> 
    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="26" height="26" />
-   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="26" height="26" /> 
+   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="26" height="26" /> 
 </p>
 
 <p align="center">
