@@ -20,6 +20,10 @@ I am Mamoon, a Full Stack Web Developer.
 - 📫 You can reach me [here](mailto:r.mamoonxk@hotmail.com)
 
 <p align="center">
+   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Reactjs" width="26" height="26" /> 
+</p>
+
+<p align="center">
         <img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" width="26" height="26" /> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="26" height="26" />
         <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="26" height="26" /> 
