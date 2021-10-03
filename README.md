@@ -26,7 +26,6 @@ I am Mamoon, a Full Stack Web Developer.
        &nbsp; &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="26" height="26" />
        &nbsp; &nbsp; <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="26" height="26" />
        &nbsp; &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="26" height="26" />
-       &nbsp; &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="26" height="26" alt="Git" />
 </p>
 
 - 🔭 Frameworks That I Know ...
