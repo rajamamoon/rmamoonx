@@ -62,4 +62,6 @@ I am Mamoon, a Full Stack Web Developer.
        &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="26" height="26" />
        &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="26" height="26" />
        &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angularjs" width="26" height="26" />
+       &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Nextjs" width="26" height="26" />
+       &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsbyjs" width="26" height="26" />
 </p>
