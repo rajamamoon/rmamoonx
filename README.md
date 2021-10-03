@@ -24,7 +24,8 @@ I am Mamoon, a Full Stack Web Developer.
        &nbsp; &nbsp;  <img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" width="26" height="26" />
        &nbsp; &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="26" height="26" /> 
        &nbsp; &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="26" height="26" />
-       &nbsp; &nbsp; <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="26" height="26" /> 
+       &nbsp; &nbsp; <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="26" height="26" />
+       &nbsp; &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="26" height="26" />
        &nbsp; &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="26" height="26" alt="Git" />
 </p>
 
@@ -34,6 +35,7 @@ I am Mamoon, a Full Stack Web Developer.
        &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vuejs" width="26" height="26" />
        &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="26" height="26" />
        &nbsp; &nbsp;  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="26" height="26" />
+       &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="26" height="26" />
        &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="26" height="26" /> 
        &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="26" height="26" />
        &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="26" height="26" /> 
